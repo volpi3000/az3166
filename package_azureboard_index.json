@@ -802,7 +802,7 @@
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/openocd-linux64-0.10.0.tar",
                 "archiveFileName": "openocd-linux64-0.10.0.tar"
               },
-                {"size": "2756608",
+                {"size": "2751074",
                 "checksum": "SHA-256:1c66db9a08a8a96a6305ea6f1ba15152b618cf0263c0ebda5cfc2d896b2e167d",
                 "host": "i686-mingw32",
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/openocd-0.10.0-32.zip",
