@@ -740,7 +740,7 @@
             "url":  "https://github.com/microsoft/devkit-sdk/releases/download/2.0.0/AZ3166-2.0.0.zip",
             "archiveFileName":  "AZ3166-2.0.0.zip",
             "checksum":  "MD5:4f51c0ebf4d510f28c06d203a4ce23f8",
-            "size":  "121781693",
+            "size":  "6348700",
             "boards":  [
                            {
                                "name":  "MXChip - Microsoft Azure IoT Developer Kit AZ3166"
@@ -765,7 +765,8 @@
             "name": "arm-none-eabi-gcc",
             "version": "5_4-2016q3",
             "systems": [
-              {
+                {"size": "121781693",
+                "checksum": "SHA-256:2c9cf891fa0f594d07a97508e2fb0ac05dddf9a68f13d831200a29e6b5ac7011",
                 "host": "i686-mingw32",
                 "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip"
