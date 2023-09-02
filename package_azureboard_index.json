@@ -772,6 +772,8 @@
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip"
               },
               {
+                "size": "109135672",
+                "checksum": "SHA-256:7dbda8ffa5ad725ac595ff0af2f568132be8dbbad0b083835e02cc46d539a358",
                 "host": "x86_64-apple-darwin",
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/gcc-arm-none-eabi-5_4-2016q3.tar.gz",
                 "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3.tar.gz"
@@ -809,6 +811,8 @@
                 "archiveFileName": "openocd-0.10.0-32.zip"
               },
               {
+                "size": "6124274",
+                "checksum": "SHA-256:eda3b03919cc0ffb70e7de9c877092a0311aaaa4e1532937e9f86ac1863fe526",
                 "host": "i386-apple-darwin11",
                 "url": "https://github.com/VSChina/azureiotdevkit_tools/releases/download/1.0/openocd-0.10.0.tar.gz",
                 "archiveFileName": "openocd-0.10.0.tar.gz"
